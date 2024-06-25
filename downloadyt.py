@@ -15,5 +15,5 @@ def download_youtube_video(url, output_path='./'):
 
 # Contoh penggunaan:
 if __name__ == "__main__":
-    video_url = 'https://www.youtube.com/watch?v=rPysfjP_NWg'
+    video_url = 'nama link youtubenya'
     download_youtube_video(video_url)
